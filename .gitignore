@@ -1,2 +1,5 @@
 .env
 mlrun-env/
+*.py
+*.yaml
+*.pkl
